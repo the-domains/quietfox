@@ -1,7 +1,7 @@
 name: quietfox
 favicon: null
-layout_spectrum: 0.8409178031142801
-typography_spectrum: 0.11610198323614895
+layout_spectrum: 0.16768
+typography_spectrum: 0.46284
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5263486818876117
+  brandStrength: 0.5
   lightness: 0.7823345959186554
   saturation: 0.7245003094431013
   rhythmicContrast: 0.7746577763464302
