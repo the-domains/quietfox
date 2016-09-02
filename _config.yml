@@ -1,11 +1,30 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.46284
+color:
+  saturation: 0.7245003094431013
+  brandStrength: 0.5
+  rhythmicContrast: 0.7746577763464302
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  lightness: 0.7823345959186554
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.16768
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: quietfox
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -18,23 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.16768
-cta:
-  bucket: null
-  version: null
-  domain: null
-color:
-  saturation: 0.7245003094431013
-  brandStrength: 0.5
-  rhythmicContrast: 0.7746577763464302
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 0.7823345959186554
+title: Observing the Universe
 purpose: []
-favicon: null
-name: quietfox
-typography_spectrum: 0.46284
